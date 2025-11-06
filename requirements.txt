@@ -7,3 +7,5 @@ sentence-transformers
 langchain_huggingface
 pypdf
 langchain_chroma
+langchain-groq
+
